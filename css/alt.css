@@ -1,0 +1,133 @@
+.H{
+    font-family: cursive;
+    font-size: 40px;
+    padding-top: 90px;
+
+}
+
+/*
+
+
+
+
+.n{
+    position: fixed;
+    //position: relative;
+    //position: absolute;
+}
+
+*/
+
+.fo{
+    font-family: cursive;
+    font-size: 20px;
+}
+
+
+.nav{
+    font-size: 25px;
+    font-family:cursive;
+    list-style-type: none;
+    
+}
+
+
+.s1{
+    background-color:#efefef; /*5*/
+    /*
+    position: fixed;
+    position:relative;
+    */
+    /*  background-attachment: fixed;   */
+
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 1000;
+}
+
+
+
+.i{
+    border-radius: 50%;
+}
+
+.Hc{
+    font-family: cursive;
+    font-size: 40px;
+    padding-top: 160px;
+    padding-left: 90px;
+
+}
+
+.fo{
+    font-family: cursive;
+    font-size: 20px;
+}
+
+
+
+.AA{
+    padding-top: 20px;
+}
+
+
+
+.carousel-caption{
+    font-family: cursive;
+    font-size: 25px;
+    color: black;
+    font-weight: bold;
+}
+
+
+.ca{
+    width: 30%;
+}
+
+
+.b{
+    font-size: 25px;
+    font-family: cursive;
+
+    border-radius: 10px;
+    background-color:#4c587d; /*6*/
+}
+
+.bb{
+    font-size: 15px;
+    font-family: cursive;
+
+    border-radius: 10px;
+    background-color: #9ad0c2; /*2*/
+    
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+
+.ww{
+    background-color:#7296A4; /*1*/
+}
+
+
+menu{
+    color: #ecf4d6; /*1*/
+    color: #9ad0c2; /*2*/
+    color: #2d9596; /*3*/
+    color: #265073; /*4*/
+}
+
+
+menu{
+    color:#7296A4; /*1*/
+    color:#9EBECB; /*2*/
+    color:#CDDEE5; /*3*/
+    color:#e6f0f2; /*4*/
+    color:#efefef; /*5*/
+    color:#4c587d; /*6*/
+}

@@ -1,0 +1,345 @@
+
+
+.H{
+    font-family: cursive;
+    font-size: 40px;
+    padding-top: 90px;
+
+}
+
+/*
+
+
+
+
+.n{
+    position: fixed;
+    //position: relative;
+    //position: absolute;
+}
+
+*/
+
+.fo{
+    font-family: cursive;
+    font-size: 20px;
+}
+
+
+.nav{
+    font-size: 25px;
+    font-family:cursive;
+    list-style-type: none;
+    
+}
+
+
+.AA{
+    padding-top: 20px;
+}
+
+
+.KK{
+    width: 100%;
+    height: 200px;
+    font-family: cursive;
+    font-size: 25px;
+    background-color:#9EBECB; /*2*/
+    border-radius: 15px;
+    position: relative;
+    color: azure;
+    text-align: center;
+    
+}
+
+
+/*
+.overlay-01{
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    top: 0;
+    border-radius: 10px;
+    background-color:blueviolet;
+    width: 100%;
+    height: 100%;
+    transition: .3s;
+    transform: scale(0);
+}
+.div-00:hover .overlay-01{
+    transform: scale(1);
+}
+
+
+*/
+menu{
+    color: #f3e8ff;
+    color: #bacddb;
+    color: #ce5959;
+    color: #89375f;
+}
+
+menu{
+    color: #842d73;
+    color: #ef326c;
+    color: #fdb134;
+    color: #fae0bc;
+}
+
+menu{
+    color: #ecf4d6; /*1*/
+    color: #9ad0c2; /*2*/
+    color: #2d9596; /*3*/
+    color: #265073; /*4*/
+}
+
+
+
+menu{
+    color:#204354; /*1*/
+    color:#73766A; /*2*/
+    color:#FED7A5; /*3*/
+    color:#9E6752; /*4*/
+    color:#534145; /*5*/
+    color:#20212B; /*6*/
+}
+
+
+menu{
+    color:#7296A4; /*1*/
+    color:#9EBECB; /*2*/
+    color:#CDDEE5; /*3*/
+    color:#e6f0f2; /*4*/
+    color:#efefef; /*5*/
+    color:#4c587d; /*6*/
+}
+
+menu{
+    background-color: var(#ecf4d6, #9ad0c2,#2d9596,#265073);
+    background-color:calc(#ecf4d6, #9ad0c2,#2d9596,#265073);
+    background-color:(#ecf4d6, #9ad0c2,#2d9596,#265073);
+    background: linear-gradient(to right, blue, green, yellow, red);
+}
+
+.LL{
+    position: absolute;
+    border-radius: 15px;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    top: 0;
+    background-color:#7296A4; /*1*/
+    width: 100%;
+    height: 200px;
+    list-style-type: none;/* */
+    transition: .1s;
+    transform: scale(0);
+}
+.KK:hover .LL{
+    transform: scale(1);
+}
+
+.s1{
+    background-color:#efefef; /*5*/
+    /*
+    position: fixed;
+    position:relative;
+    */
+    /*  background-attachment: fixed;   */
+
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 1000;
+}
+
+/*
+
+.s2{
+    background-color:antiquewhite;
+}
+
+*/
+
+.i{
+    border-radius: 40%;
+}
+
+
+/*
+.s3{
+    background-color:#efefef; /*5
+}
+*/
+
+
+/*
+.s4{
+    background-color:antiquewhite
+}
+
+*/
+
+.d1{
+    position: relative;
+    
+}
+
+.d2{
+    background-color:#CDDEE5; /*3*/
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    border-radius: 40%;
+    text-align: center;
+    padding-top: 90px;
+    opacity: 0;
+    top: 0;
+    right: 0;
+    left: 0;
+    bottom: 0;
+    transition: .5s;
+}
+
+.d1:hover .d2{
+    opacity: 0.3;
+}
+
+
+/*
+.s5{
+    /*  background-color: #ecf4d6; /*1
+    background: linear-gradient(135deg, #ecf4d6, #9ad0c2,#2d9596,#265073);
+}
+
+*/
+
+.card{
+    background: linear-gradient(110deg, #efefef /*5*/,#7296A4/*1*/);
+    width: 100%;
+    height: 100%;
+}
+
+
+/*
+.s6{
+   /* background-color:#f0e7cc; /*1
+}
+
+*/
+
+
+.ca{
+    width: 30%;
+}
+
+.Hc{
+    font-family: cursive;
+    font-size: 40px;
+    padding-top: 160px;
+    padding-left: 90px;
+
+}
+
+.carousel-caption{
+    font-family: cursive;
+    font-size: 25px;
+    color: black;
+    font-weight: bold;
+}
+
+
+.b{
+    font-size: 25px;
+    font-family: cursive;
+
+    border-radius: 10px;
+    background-color: #4c587d; /*6*/
+}
+
+.bb{
+    font-size: 15px;
+    font-family: cursive;
+
+    border-radius: 10px;
+    background-color: #9ad0c2; /*2*/
+    
+}
+
+.s7{
+    /*
+    background: linear-gradient(120deg, #ecf4d6,#265073);
+    */
+    background-color: black;
+    color:#9EBECB; /*2*/
+}
+
+
+
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+
+.ol img{
+    width: 200%;
+    height: 300px;
+    
+    background-color: #265073;
+    
+    border-radius: 15px;
+    
+    
+}
+
+
+
+/*
+
+.overlay{
+    background-color: aqua;
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    opacity: 0;
+    top: 0;
+    right: 0;
+    left: 0;
+    bottom: 0;
+    transition: .5s;
+}
+.div-01:hover .overlay{
+    opacity: 0.3;
+}
+
+
+*/
+
+
+
+
+
+
+
+
+
+
+
+
+/*
+
+
+
+خاصية background-image: تسمح لك بتحديد صورة كخلفية لعنصر معين.
+خاصية background-color: تستخدم لتحديد لون خلفية عنصر معين.
+خاصية background-size: تسمح لك بتحديد حجم الخلفية، سواء كانت صورة أو لون.
+خاصية background-position: تحدد موقع الخلفية داخل عنصر الواجهة.
+خاصية background-attachment: تحدد ما إذا كانت الخلفية تتحرك مع تمرير الصفحة أو تظل ثابتة.
+خاصية background-repeat: تحدد ما إذا كانت الخلفية تتكرر أو تظل كما هي.
+
+
+*/
